@@ -1,0 +1,167 @@
+Orig_industry,Source,SOC,SOC2,new_industry (major group),AO
+Education Management,LinkedIn,11-0000,110000,Management Occupations,Education Administration
+Executive Office,LinkedIn,11-0000,110000,Management Occupations,"Management of Companies, Professional and Business Services"
+Legislative Office,LinkedIn,11-0000,110000,Management Occupations,"Government, Military, and Public Administration"
+Management Consulting,LinkedIn,11-0000,110000,Management Occupations,"Management of Companies, Professional and Business Services"
+Nonprofit Organization Management,LinkedIn,11-0000,110000,Management Occupations,"Non-Profit, Fundraising, and Social Services"
+Accounting,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Banking,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Business Supplies and Equipment,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Retail & Wholesale Industries
+Capital Markets,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Events Services,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Leisure and Hospitality
+Financial Services,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Fund-Raising,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Non-Profit, Fundraising, and Social Services"
+Human Resources,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Insurance,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+International Affairs,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Government, Military, and Public Administration"
+International Trade and Development,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Government, Military, and Public Administration"
+Investment Banking,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Investment Management,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Logistics and Supply Chain,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Trade, Transportation & Utilities"
+Market Research,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Marketing and Advertising,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Outsourcing/Offshoring,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Professional Training & Coaching,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Program Development,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Staffing and Recruiting,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Venture Capital & Private Equity,LinkedIn,13-0000,130000,Business and Financial Operations Occupations,Finance and Insurance
+Computer & Network Security,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Computer Games,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Computer Hardware,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Computer Networking,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Computer Software,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Information Technology and Services,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Internet,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Wireless,LinkedIn,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Architecture & Planning,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,"Management of Companies, Professional and Business Services"
+Aviation & Aerospace,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,Manufacturing 
+Civil Engineering,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,"Management of Companies, Professional and Business Services"
+Defense & Space,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,Manufacturing 
+Industrial Automation,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,Manufacturing 
+Mechanical or Industrial Engineering,LinkedIn,17-0000,170000,Architecture and Engineering Occupations,"Management of Companies, Professional and Business Services"
+Think Tanks,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations","Non-Profit, Fundraising, and Social Services"
+Biotechnology,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations",Manufacturing 
+Environmental Services,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations","Management of Companies, Professional and Business Services"
+Nanotechnology,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations",Manufacturing 
+Pharmaceuticals,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations",Health Services
+Political Organization,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations","Non-Profit, Fundraising, and Social Services"
+Public Policy,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations","Government, Military, and Public Administration"
+Renewables & Environment,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations",Natural resources and mining
+Research,LinkedIn,19-0000,190000,"Life, Physical, and Social Science Occupations",Research
+Alternative Dispute Resolution,LinkedIn,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Civic & Social Organization,LinkedIn,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Individual & Family Services,LinkedIn,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Philanthropy,LinkedIn,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Religious Institutions,LinkedIn,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Judiciary,LinkedIn,23-0000,230000,Legal Occupations,Legal
+Law Practice,LinkedIn,23-0000,230000,Legal Occupations,Legal
+Legal Services,LinkedIn,23-0000,230000,Legal Occupations,Legal
+E-Learning,LinkedIn,25-0349,250349,"Other Education, Teaching, Training, and Library Occupations",Information Technology
+Higher Education,LinkedIn,25-1000,251000,Postsecondary Teachers,Higher Education
+Libraries,LinkedIn,25-0349,250349,"Other Education, Teaching, Training, and Library Occupations","Government, Military, and Public Administration"
+Primary/Secondary Education,LinkedIn,25-2000,252000,"Preschool, Primary, Secondary, and Special Education School Teachers",K-12 Education
+Animation,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Apparel & Fashion,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Retail & Wholesale Industries
+Arts and Crafts,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Broadcast Media,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Design,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Entertainment,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Fine Art,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Gambling & Casinos,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Leisure and Hospitality
+Graphic Design,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Information Services,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Management of Companies, Professional and Business Services"
+Media Production,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Motion Pictures and Film,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Museums and Institutions,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Music,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Newspapers,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Online Media,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Performing Arts,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Photography,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Printing,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Management of Companies, Professional and Business Services"
+Public Relations and Communications,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Publishing,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Sports,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Telecommunications,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Translation and Localization,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Wine and Spirits,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Retail & Wholesale Industries
+Writing and Editing,LinkedIn,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations",Communications
+Alternative Medicine,LinkedIn,29-0000,290000,Healthcare Practitioners and Technical Occupations,Health Services
+Hospital & Health Care,LinkedIn,29-0000,290000,Healthcare Practitioners and Technical Occupations,Health Services
+Medical Practice,LinkedIn,29-0000,290000,Healthcare Practitioners and Technical Occupations,Health Services
+Mental Health Care,LinkedIn,29-0000,290000,Healthcare Practitioners and Technical Occupations,Health Services
+Veterinary,LinkedIn,29-0000,290000,Healthcare Practitioners and Technical Occupations,Health Services
+"Health, Wellness and Fitness",LinkedIn,31-0000,310000,Healthcare Support Occupations,Health Services
+Law Enforcement,LinkedIn,33-0000,330000,Protective Service Occupations,"Government, Military, and Public Administration"
+Public Safety,LinkedIn,33-0000,330000,Protective Service Occupations,"Government, Military, and Public Administration"
+Security and Investigations,LinkedIn,33-0000,330000,Protective Service Occupations,"Management of Companies, Professional and Business Services"
+Hospitality,LinkedIn,35-0000,350000,Food Preparation and Serving Related Occupations,Leisure and Hospitality
+Restaurants,LinkedIn,35-0000,350000,Food Preparation and Serving Related Occupations,Retail & Wholesale Industries
+Facilities Services,LinkedIn,37-0000,370000,Building and Grounds Cleaning and Maintenance Occupations,"Management of Companies, Professional and Business Services"
+"Leisure, Travel & Tourism",LinkedIn,39-0000,390000,Personal Care and Service Occupations,Leisure and Hospitality
+Recreational Facilities and Services,LinkedIn,39-0000,390000,Personal Care and Service Occupations,"Arts, Entertainment & Recreation"
+Commercial Real Estate,LinkedIn,41-0000,410000,Sales and Related Occupations,Real Estate
+Consumer Electronics,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Consumer Goods,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Consumer Services,LinkedIn,41-0000,410000,Sales and Related Occupations,Leisure and Hospitality
+Cosmetics,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Food & Beverages,LinkedIn,41-0000,410000,Sales and Related Occupations,Accomodation & Food Services
+Furniture,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Luxury Goods & Jewelry,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Real Estate,LinkedIn,41-0000,410000,Sales and Related Occupations,Real Estate
+Retail,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Sporting Goods,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Supermarkets,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Wholesale,LinkedIn,41-0000,410000,Sales and Related Occupations,Retail & Wholesale Industries
+Government Administration,LinkedIn,43-0000,430000,Office and Administrative Support Occupations,"Government, Military, and Public Administration"
+Government Relations,LinkedIn,43-0000,430000,Office and Administrative Support Occupations,"Government, Military, and Public Administration"
+Farming,LinkedIn,45-0000,450000,"Farming, Fishing, and Forestry Occupations",Agriculture
+Fishery,LinkedIn,45-0000,450000,"Farming, Fishing, and Forestry Occupations",Natural resources and mining
+Ranching,LinkedIn,45-0000,450000,"Farming, Fishing, and Forestry Occupations",Natural resources and mining
+Building Materials,LinkedIn,47-0000,470000,Construction and Extraction Occupations,Construction
+Construction,LinkedIn,47-0000,470000,Construction and Extraction Occupations,Construction
+"Glass, Ceramics & Concrete",LinkedIn,47-0000,470000,Construction and Extraction Occupations,Construction
+Mining & Metals,LinkedIn,47-0000,470000,Construction and Extraction Occupations,Natural resources and mining
+Oil & Energy,LinkedIn,47-0000,470000,Construction and Extraction Occupations,Natural resources and mining
+Machinery,LinkedIn,49-0000,490000,"Installation, Maintenance, and Repair Occupations",Manufacturing 
+Chemicals,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Electrical/Electronic Manufacturing,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Food Production,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Medical Devices,LinkedIn,51-0000,510000,Production Occupations,Retail & Wholesale Industries
+Paper & Forest Products,LinkedIn,51-0000,510000,Production Occupations,Natural resources and mining
+Plastics,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Railroad Manufacture,LinkedIn,51-0000,510000,Production Occupations,"Trade, Transportation & Utilities"
+Semiconductors,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Textiles,LinkedIn,51-0000,510000,Production Occupations,Manufacturing 
+Tobacco,LinkedIn,51-0000,510000,Production Occupations,Agriculture
+Utilities,LinkedIn,51-0000,510000,Production Occupations,"Trade, Transportation & Utilities"
+Airlines/Aviation,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,Leisure and Hospitality
+Automotive,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,Manufacturing 
+Import and Export,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
+Maritime,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
+Packaging and Containers,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
+Transportation/Trucking/Railroad,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
+Warehousing,LinkedIn,53-0000,530000,Transportation and Material Moving Occupations,"Management of Companies, Professional and Business Services"
+Military,LinkedIn,55-0000,550000,Military Specific Occupations,"Government, Military, and Public Administration"
+Administration of Educational Programs,Millenium,11-0000,110000,Management Occupations,Education Administration
+Aerospace,Millenium,17-0000,170000,Architecture and Engineering Occupations,"Government, Military, and Public Administration"
+Air Transportation,Millenium,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
+Apparel and Other Textile Products,Millenium,51-0000,510000,Production Occupations,Retail & Wholesale Industries
+Business Consulting Services (NEC),Millenium,13-0000,130000,Business and Financial Operations Occupations,"Management of Companies, Professional and Business Services"
+Computer Facilities,Millenium,15-0000,150000,Computer and Mathematical Occupations,Information Technology
+Educational Services-Colleges; Universities and Prof. Schools,Millenium,25-0000,250000,"Education, Training, and Library Occupations",Higher Education
+Educational Services-Elementary and Secondary Schools,Millenium,25-0000,250000,"Education, Training, and Library Occupations",K-12 Education
+Educational Services-Junior Colleges & Technical Institutes,Millenium,25-0000,250000,"Education, Training, and Library Occupations",Higher Education
+Educational Services-Schools & Educational Services (NEC),Millenium,25-0000,250000,"Education, Training, and Library Occupations",Higher Education
+Electric; Gas and Sanitary Services,Millenium,51-0000,510000,Production Occupations,"Trade, Transportation & Utilities"
+Electronic and Electric Equipment,Millenium,51-0000,510000,Production Occupations,Information Technology
+Executive; Legislative and General Government,Millenium,43-0000,430000,Office and Administrative Support Occupations,"Government, Military, and Public Administration"
+Food and Related Products,Millenium,35-0000,350000,Food Preparation and Serving Related Occupations,Accomodation & Food Services
+Fundraising/Non-profit,Millenium,11-0000,110000,Management Occupations,"Non-Profit, Fundraising, and Social Services"
+Health Services,Millenium,31-0000,310000,Healthcare Support Occupations,Health Services
+Instruments and Related Products,Millenium,49-0000,490000,"Installation, Maintenance, and Repair Occupations","Trade, Transportation & Utilities"
+Miscellaneous Manufacturing,Millenium,41-0000,410000,Sales and Related Occupations,Manufacturing
+Motion Pictures,Millenium,27-0000,270000,"Arts, Design, Entertainment, Sports, and Media Occupations","Arts, Entertainment & Recreation"
+Museums and Botanical or Zoological Gardens,Millenium,19-0000,190000,"Life, Physical, and Social Science Occupations","Non-Profit, Fundraising, and Social Services"
+Social Services,Millenium,21-0000,210000,Community and Social Service Occupations,"Non-Profit, Fundraising, and Social Services"
+Water Transportation,Millenium,53-0000,530000,Transportation and Material Moving Occupations,"Trade, Transportation & Utilities"
